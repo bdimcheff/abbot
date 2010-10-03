@@ -34,6 +34,7 @@ Gem::Specification.new do |s|
   s.add_development_dependency 'less', "~> 1.2.21"
   s.add_development_dependency 'RedCloth', "~> 4.2.3"
   s.add_development_dependency 'BlueCloth', "~> 1.0.1"
+  s.add_development_dependency 'coffee-script', "~> 1.0.0"
 
   s.rubyforge_project = "sproutcore"
   s.extra_rdoc_files  = %w[History.txt README.txt]
